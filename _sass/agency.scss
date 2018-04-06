@@ -180,7 +180,7 @@ header {
         .intro-lead-in {
             @include serif-font;
             font-style: italic;
-            font-size: 22px;
+            font-size: 20px;
             line-height: 22px;
             margin-bottom: 25px;
         }
@@ -197,14 +197,14 @@ header {
 @media(min-width:768px) {
     header {
         .intro-text {
-            padding-top: 300px;
+            padding-top: 200px;
             padding-bottom: 200px;
             .intro-lead-in {
                 @include serif-font;
                 font-style: italic;
-                font-size: 40px;
+                font-size: 30px;
                 line-height: 40px;
-                margin-bottom: 25px;
+                margin-bottom: 30px;
             }
             .intro-heading {
                 @include heading-font;
