@@ -1,15 +1,15 @@
-- name: "E-Commerce"
-  icon: "shopping-cart"
-  description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+- name: "Per chi deve iniziare"
+  icon: "child"
+  description: "A chi parte da zero in genere suggerisco un libro per l'introduzione alla lettura musicale, alle scale e alla tecnica di base, affiancato allo studio di accordi e di ritmiche di brani, in parte scelti da me, in parte con lo studente."
 
-- name: "Responsive Design"
-  icon: "laptop"
-  description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+- name: "Per chi già suona"
+  icon: "music"
+  description: "Per chi già suona invece il discorso è più complesso e vale la pena parlarne con calma caso per caso. "
 
-- name: "Web Security"
-  icon: "lock"
-  description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-
-- name: "Web Security"
-  icon: "lock"
-  description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+- name: "certificazioni "
+  icon: "graduation-cap"
+  description: "Tra i percorsi didattici offro la preparazione alle certificazioni RGT di LCM di cui sono tutor autorizzato.
+  Si tratta di 8 step molto chiari e ben strutturati che permettono di fare ordine e non tralasciare
+  nulla tra le conoscenze musicali comuni a tutti gli ambiti della chitarra moderna."
+  urltext: "RGT di LCM"
+  url: "http://www.rgt.org"
