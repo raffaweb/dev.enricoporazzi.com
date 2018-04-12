@@ -554,12 +554,12 @@ aside.clients {
 // Contact Section
 
 section#contact {
-    background-color: $gray-darker;
-    background-image: url('../assets/img/map-image.png');
+    //background-color: $gray-darker;
+    //background-image: url('../assets/img/map-image.png');
     background-position: center;
     background-repeat: no-repeat;
     .section-heading {
-        color: white;
+        color: black;
     }
     .form-group {
         margin-bottom: 25px;

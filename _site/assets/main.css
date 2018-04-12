@@ -453,12 +453,10 @@ aside.clients img {
   margin: 50px auto; }
 
 section#contact {
-  background-color: #222222;
-  background-image: url("../assets/img/map-image.png");
   background-position: center;
   background-repeat: no-repeat; }
   section#contact .section-heading {
-    color: white; }
+    color: black; }
   section#contact .form-group {
     margin-bottom: 25px; }
     section#contact .form-group input,

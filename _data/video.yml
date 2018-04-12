@@ -1,7 +1,7 @@
 - order: 001
   name: "Solo"
   url: "//www.youtube.com/embed/lXIoQto6W7U"
-  category: "ispirato a Jeff Beck"
+  category: "Lorem ipsum dolor sit amet, consectetur adipiscing elit..."
   #date: "July 2014"
   #client: "Client name"
   #web: "http://"
@@ -13,9 +13,9 @@
   #call-to-action: "Est blanditiis quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo."
 
 - order: 002
-  name: "solo"
+  name: "Solo"
   url: "//www.youtube.com/embed/dTAE8jPso2c"
-  category: "Rock minor bluesy solo"
+  category: "Lorem ipsum dolor sit amet, consectetur adipiscing elit..."
   #date: "July 2014"
   #client: "Client name"
   #web: "http://"
@@ -27,9 +27,9 @@
   #call-to-action: "Est blanditiis quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo."
 
 - order: 003
-  name: "Test"
+  name: "Solo"
   url: "//www.youtube.com/embed/VLo8u57_XSs"
-  category: "Test Mooer Radar"
+  category: "Lorem ipsum dolor sit amet, consectetur adipiscing elit..."
   #date: "July 2014"
   #client: "Client name"
   #web: "http://"
