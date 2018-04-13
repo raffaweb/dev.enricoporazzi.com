@@ -3,6 +3,8 @@
 
 #raffa test, se la variabile show = true visualizza le porzioni di html all'interno di essa
 show: true
+destination: docs
+
 
 # Site settings
 
