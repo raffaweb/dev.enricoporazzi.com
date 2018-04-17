@@ -1,23 +1,20 @@
-- name: "The Mapo Ciank"
-  image: "themapociank.png"
+- name: "Accademia Musicale Crepaldi"
+  image: "crepaldi.jpg"
   img-alt: "image description"
-  year:
-  text: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-  url: "https://www.facebook.com/themapociank"
+  text: "La scuola di musica di cui sono vicedirettore, socio ed insegnante di chitarra."
+  url: "https://www.accademiacrepaldi.it/"
   side: left
 
 - name: "2HP"
   image: "2hp.jpg"
   img-alt: "image description"
-  year:
-  text: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+  text: "Il duo con cui suono ad eventi, convention e nei locali."
   url: "http://www.2hpband.com/"
   side: right
 
-- name: "Accademia Musicale Crepaldi"
-  image: "crepaldi.png"
+- name: "The Mapo Ciank"
+  image: "themapociank.jpg"
   img-alt: "image description"
-  year:
-  text: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-  url: "https://www.accademiacrepaldi.it/"
+  text: "La band di inediti rock di cui faccio parte"
+  url: "https://www.facebook.com/themapociank"
   side: left

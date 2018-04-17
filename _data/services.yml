@@ -1,10 +1,10 @@
 - name: "Per chi deve iniziare"
-  icon: "child"
+  icon: "thumbs-up"
   description: "A chi parte da zero in genere suggerisco un libro per l'introduzione alla lettura musicale, alle scale e alla tecnica di base, affiancato allo studio di accordi e di ritmiche di brani, in parte scelti da me, in parte con lo studente."
 
 - name: "Per chi già suona"
   icon: "music"
-  description: "Per chi già suona invece il discorso è più complesso e vale la pena parlarne con calma caso per caso. "
+  description: "E' possibile concordare programmi specifici per approfondire un ambito (tecnica, armonia, ecc...) o un genere musicale."
 
 - name: "certificazioni "
   icon: "graduation-cap"
