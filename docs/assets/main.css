@@ -1,6 +1,6 @@
 body {
   overflow-x: hidden;
-  font-family: "Roboto Slab", "Helvetica Neue", Helvetica, Arial, sans-serif; }
+  font-family: "Tahoma", "Roboto Slab", "Helvetica Neue", Helvetica, Arial, sans-serif; }
 
 .text-muted {
   color: #777777; }
@@ -185,8 +185,7 @@ header {
     padding-top: 100px;
     padding-bottom: 50px; }
     header .intro-text .intro-lead-in {
-      font-family: "Droid Serif", "Helvetica Neue", Helvetica, Arial, sans-serif;
-      font-style: italic;
+      font-family: "Tahoma", "Droid Serif", "Helvetica Neue", Helvetica, Arial, sans-serif;
       font-size: 20px;
       line-height: 22px;
       margin-bottom: 25px; }
@@ -203,8 +202,7 @@ header {
     padding-top: 200px;
     padding-bottom: 200px; }
     header .intro-text .intro-lead-in {
-      font-family: "Droid Serif", "Helvetica Neue", Helvetica, Arial, sans-serif;
-      font-style: italic;
+      font-family: "Tahoma", "Droid Serif", "Helvetica Neue", Helvetica, Arial, sans-serif;
       font-size: 30px;
       line-height: 40px;
       margin-bottom: 30px; }
@@ -223,9 +221,8 @@ section {
     margin-bottom: 15px; }
   section h3.section-subheading {
     font-size: 16px;
-    font-family: "Droid Serif", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-family: "Tahoma", "Droid Serif", "Helvetica Neue", Helvetica, Arial, sans-serif;
     text-transform: none;
-    font-style: italic;
     font-weight: 400;
     margin-bottom: 75px; }
 
@@ -278,7 +275,7 @@ section {
       text-transform: none;
       margin: 0; }
     #portfolio .portfolio-item .portfolio-caption p {
-      font-family: "Droid Serif", "Helvetica Neue", Helvetica, Arial, sans-serif;
+      font-family: "Tahoma", "Droid Serif", "Helvetica Neue", Helvetica, Arial, sans-serif;
       font-style: italic;
       font-size: 16px;
       margin: 0; }
@@ -553,7 +550,7 @@ ul.social-buttons {
     margin-bottom: 30px; }
   .portfolio-modal .modal-content p.item-intro {
     margin: 20px 0 30px;
-    font-family: "Droid Serif", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-family: "Tahoma", "Droid Serif", "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-style: italic;
     font-size: 16px; }
   .portfolio-modal .modal-content ul.list-inline {
