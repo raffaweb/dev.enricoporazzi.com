@@ -34,7 +34,7 @@ a.active {
 }
 
 a {
-    color: $theme-primary;
+    color: $gray-base;
 }
 
 a:hover,
@@ -197,8 +197,8 @@ header {
 @media(min-width:768px) {
     header {
         .intro-text {
-            padding-top: 200px;
-            padding-bottom: 200px;
+            padding-top: 250px;
+            padding-bottom: 230px;
             .intro-lead-in {
                 @include serif-font;
 
@@ -230,7 +230,7 @@ section {
         font-size: 16px;
         @include serif-font;
         text-transform: none;
-        
+
         font-weight: 400;
         margin-bottom: 75px;
     }
@@ -395,7 +395,7 @@ section {
             height: 80px;
             position: absolute;
             z-index: 100;
-            background-color: $theme-primary;
+            background-color: transparent;
             color: white;
             border-radius: 100%;
             border: 7px solid #f1f1f1;
@@ -560,6 +560,9 @@ section#contact {
     background-repeat: no-repeat;
     .section-heading {
         color: black;
+    }
+    .contact-group{
+        padding: 30px;
     }
     .form-group {
         margin-bottom: 25px;

@@ -23,7 +23,7 @@ a.active {
   outline: none; }
 
 a {
-  color: #fed136; }
+  color: #000; }
 
 a:hover,
 a:focus,
@@ -199,8 +199,8 @@ header {
 
 @media (min-width: 768px) {
   header .intro-text {
-    padding-top: 200px;
-    padding-bottom: 200px; }
+    padding-top: 250px;
+    padding-bottom: 230px; }
     header .intro-text .intro-lead-in {
       font-family: "Tahoma", "Droid Serif", "Helvetica Neue", Helvetica, Arial, sans-serif;
       font-size: 30px;
@@ -347,7 +347,7 @@ section {
       height: 80px;
       position: absolute;
       z-index: 100;
-      background-color: #fed136;
+      background-color: transparent;
       color: white;
       border-radius: 100%;
       border: 7px solid #f1f1f1;
@@ -454,6 +454,8 @@ section#contact {
   background-repeat: no-repeat; }
   section#contact .section-heading {
     color: black; }
+  section#contact .contact-group {
+    padding: 30px; }
   section#contact .form-group {
     margin-bottom: 25px; }
     section#contact .form-group input,
