@@ -233,15 +233,15 @@ section {
   margin: 15px 0;
   text-transform: none; }
 
-#portfolio .portfolio-item {
+#video .video-item {
   margin: 0 0 15px;
   right: 0; }
-  #portfolio .portfolio-item .portfolio-link {
+  #video .video-item .video-link {
     display: block;
     position: relative;
     max-width: 400px;
     margin: 0 auto; }
-    #portfolio .portfolio-item .portfolio-link .portfolio-hover {
+    #video .video-item .video-link .video-hover {
       background: rgba(254, 209, 54, 0.1);
       position: absolute;
       width: 100%;
@@ -250,9 +250,9 @@ section {
       transition: all ease 0.5s;
       -webkit-transition: all ease 0.5s;
       -moz-transition: all ease 0.5s; }
-      #portfolio .portfolio-item .portfolio-link .portfolio-hover:hover {
+      #video .video-item .video-link .video-hover:hover {
         opacity: 1; }
-      #portfolio .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content {
+      #video .video-item .video-link .video-hover .video-hover-content {
         position: absolute;
         width: 100%;
         height: 20px;
@@ -261,29 +261,29 @@ section {
         top: 50%;
         margin-top: -12px;
         color: white; }
-        #portfolio .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content i {
+        #video .video-item .video-link .video-hover .video-hover-content i {
           margin-top: -12px; }
-        #portfolio .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content h3,
-        #portfolio .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content h4 {
+        #video .video-item .video-link .video-hover .video-hover-content h3,
+        #video .video-item .video-link .video-hover .video-hover-content h4 {
           margin: 0; }
-  #portfolio .portfolio-item .portfolio-caption {
+  #video .video-item .video-caption {
     max-width: 400px;
     margin: 0 auto;
     text-align: center;
     padding: 25px; }
-    #portfolio .portfolio-item .portfolio-caption h4 {
+    #video .video-item .video-caption h4 {
       text-transform: none;
       margin: 0; }
-    #portfolio .portfolio-item .portfolio-caption p {
+    #video .video-item .video-caption p {
       font-family: "Tahoma", "Droid Serif", "Helvetica Neue", Helvetica, Arial, sans-serif;
       font-style: italic;
       font-size: 16px;
       margin: 0; }
-#portfolio * {
+#video * {
   z-index: 2; }
 
 @media (min-width: 767px) {
-  #portfolio .portfolio-item {
+  #video .video-item {
     margin: 0 0 30px; } }
 .video-container {
   position: relative;
@@ -543,11 +543,11 @@ ul.social-buttons {
 .btn:active:focus {
   outline: none; }
 
-.portfolio-modal .modal-dialog {
+.video-modal .modal-dialog {
   margin: 0;
   height: 100%;
   width: auto; }
-.portfolio-modal .modal-content {
+.video-modal .modal-content {
   border-radius: 0;
   background-clip: border-box;
   -webkit-box-shadow: none;
@@ -556,22 +556,22 @@ ul.social-buttons {
   min-height: 100%;
   padding: 100px 0;
   text-align: center; }
-  .portfolio-modal .modal-content h2 {
+  .video-modal .modal-content h2 {
     margin-bottom: 15px;
     font-size: 3em; }
-  .portfolio-modal .modal-content p {
+  .video-modal .modal-content p {
     margin-bottom: 30px; }
-  .portfolio-modal .modal-content p.item-intro {
+  .video-modal .modal-content p.item-intro {
     margin: 20px 0 30px;
     font-family: "Tahoma", "Droid Serif", "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-style: italic;
     font-size: 16px; }
-  .portfolio-modal .modal-content ul.list-inline {
+  .video-modal .modal-content ul.list-inline {
     margin-bottom: 30px;
     margin-top: 0; }
-  .portfolio-modal .modal-content img {
+  .video-modal .modal-content img {
     margin-bottom: 30px; }
-.portfolio-modal .close-modal {
+.video-modal .close-modal {
   position: absolute;
   width: 75px;
   height: 75px;
@@ -579,9 +579,9 @@ ul.social-buttons {
   top: 25px;
   right: 25px;
   cursor: pointer; }
-  .portfolio-modal .close-modal:hover {
+  .video-modal .close-modal:hover {
     opacity: 0.3; }
-  .portfolio-modal .close-modal .lr {
+  .video-modal .close-modal .lr {
     height: 75px;
     width: 1px;
     margin-left: 35px;
@@ -592,7 +592,7 @@ ul.social-buttons {
     -webkit-transform: rotate(45deg);
     /* Safari and Chrome */
     z-index: 1051; }
-    .portfolio-modal .close-modal .lr .rl {
+    .video-modal .close-modal .lr .rl {
       height: 75px;
       width: 1px;
       background-color: #222222;
@@ -602,7 +602,7 @@ ul.social-buttons {
       -webkit-transform: rotate(90deg);
       /* Safari and Chrome */
       z-index: 1052; }
-.portfolio-modal .modal-backdrop {
+.video-modal .modal-backdrop {
   opacity: 0;
   display: none; }
 

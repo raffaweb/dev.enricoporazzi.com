@@ -6,7 +6,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Klaudia Alvarez"]
   spec.email         = 'klaudia.devel@gmail.com'
   spec.summary       = "Agency Jekyll Theme is a jekyll theme gem, based on Agency theme created by Start Bootstrap."
-  spec.description   = "Agency Jekyll Theme is a single-page theme. It features several content sections, a responsive portfolio grid with hover effects, full page portfolio item modals, a responsive timeline, and a contact form."
+  spec.description   = "Agency Jekyll Theme is a single-page theme. It features several content sections, a responsive video grid with hover effects, full page video item modals, a responsive timeline, and a contact form."
   spec.homepage      = "http://github.com/laklau/agency-jekyll-theme"
   spec.license       = 'MIT'
 

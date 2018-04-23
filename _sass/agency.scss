@@ -249,18 +249,18 @@ section {
     text-transform: none;
 }
 
-// Portfolio Section
+// video Section
 
-#portfolio {
-    .portfolio-item {
+#video {
+    .video-item {
         margin: 0 0 15px;
         right: 0;
-        .portfolio-link {
+        .video-link {
             display: block;
             position: relative;
             max-width: 400px;
             margin: 0 auto;
-            .portfolio-hover {
+            .video-hover {
                 background: fade-out($theme-primary, .9);
                 position: absolute;
                 width: 100%;
@@ -272,7 +272,7 @@ section {
                 &:hover {
                     opacity: 1;
                 }
-                .portfolio-hover-content {
+                .video-hover-content {
                     position: absolute;
                     width: 100%;
                     height: 20px;
@@ -291,7 +291,7 @@ section {
                 }
             }
         }
-        .portfolio-caption {
+        .video-caption {
             max-width: 400px;
             margin: 0 auto;
             //background-color: white;
@@ -315,8 +315,8 @@ section {
 }
 
 @media(min-width:767px) {
-    #portfolio {
-        .portfolio-item {
+    #video {
+        .video-item {
             margin: 0 0 30px;
         }
     }
@@ -671,7 +671,7 @@ ul.social-buttons {
     outline: none;
 }
 
-.portfolio-modal {
+.video-modal {
     .modal-dialog{
         margin: 0;
         height: 100%;
